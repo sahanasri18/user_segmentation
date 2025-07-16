@@ -1,0 +1,6 @@
+UserID,Age,Gender,Income,SpendingScore,Purchases
+1,25,Male,40000,60,3
+2,32,Female,50000,40,6
+3,28,Female,45000,80,4
+4,40,Male,60000,30,2
+5,22,Male,35000,90,5
